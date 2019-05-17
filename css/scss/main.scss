@@ -1,0 +1,13 @@
+.range{
+	-webkit-appearance: none;
+	border: 1px solid black;
+	outline: none;
+}
+
+.range::-webkit-slider-thumb{
+	-webkit-appearance: none;
+	background: url("soup.jpg");
+	background-size: cover;
+	height: 50px;
+	width: 50px;
+}

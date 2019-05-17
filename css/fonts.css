@@ -1,0 +1,14 @@
+@font-face{
+  font-family: "Gothampro-regular";
+  src: url(fonts/GothaProReg.otf) format("opentype");
+}
+
+@font-face{
+  font-family: "Gothampro-medium";
+  src: url(fonts/GothaProMed.otf) format("opentype");
+}
+
+@font-face{
+  font-family: "Gothampro-light";
+  src: url(fonts/GothaProLig.otf) format("opentype");
+}
